@@ -66,9 +66,6 @@ def Download_Video(Link,update, context):
 
 ✅ Successfully Downloaded {} Video 🔰
 
-🔰 Powerd by : [🏖 TikTok Download API 🏖](https://github.com/Single-Developers/API/blob/main/tiktok/Note.md)
-[🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
-
 ◇───────────────◇"""
     
     # Uploading Downloaded Videos to Telegram
